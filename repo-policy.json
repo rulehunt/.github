@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dependabotAlerts": true,
+    "dependabotSecurityUpdates": false,
+    "provider": "renovate",
+    "renovatePreset": "github>rulehunt/.github:renovate-config"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "files": {
+      "policies/default.json": "a3c57fd85df676dc8ee08215c3522c020b2b00d15be3e5f8b87a2fdacd1fd78b"
+    },
+    "kind": "github",
+    "repository": "rjwalters/repo",
+    "revision": "63c02ad42cd1ad2c95b0fd1f728d8af348a88811"
+  }
+}
